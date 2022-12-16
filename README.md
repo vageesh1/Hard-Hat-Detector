@@ -6,7 +6,7 @@ In both the models we need to convert our annotations <br>
 In the yolov5 model it has a property of color changing of bounding box according to the color of helmet<br>
 <br>
 
-Original youtubr video - https://www.youtube.com/watch?v=6PoPwZ0WO9w 
+Original youtubr video - https://www.youtube.com/watch?v=6PoPwZ0WO9w <br>
 Detected youtube video - https://drive.google.com/file/d/1Hp9kkKZ9iDByP1a3nhjNi4McjcMShxgq/view?usp=share_link
 
 
